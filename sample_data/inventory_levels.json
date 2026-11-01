@@ -1,0 +1,7 @@
+{
+  "inventory_levels": [
+    { "location_id": 9101, "inventory_item_id": 70001, "available": 12, "updated_at": "2026-10-20T08:00:00Z" },
+    { "location_id": 9101, "inventory_item_id": 70002, "available": 5, "updated_at": "2026-10-20T08:00:00Z" },
+    { "location_id": 9102, "inventory_item_id": 70003, "available": 30, "updated_at": "2026-10-20T08:05:00Z" }
+  ]
+}
